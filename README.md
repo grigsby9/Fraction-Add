@@ -1,6 +1,6 @@
 # Fraction-Add 
 
-This project aims to write a program that reads two fractions, adds them, and displays the simplified sum of these fractions. 
+This project aims to write a program that prompts for two fractions, adds them, and displays the sum with the lowest common denominator. 
 
 ## Initial Objective
 
